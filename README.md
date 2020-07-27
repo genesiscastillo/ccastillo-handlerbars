@@ -18,6 +18,12 @@
 
     `https://devcenter.heroku.com/articles/heroku-cli`
 
-        * heroku -v
+    * commit and starting server on heroku
+    
+    `heroku git:clone -a ccastillo-handlebars`
+    
+    `git push heroku master`
+    
+    `https://ccastillo-handlebars.herokuapp.com/`
           
 
